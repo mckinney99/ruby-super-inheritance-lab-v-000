@@ -6,7 +6,7 @@ def hello
 end
 
 def raise_hand
-  puts "#{super * 10}"
+  puts "#{super}*10"
 end
 
 end
